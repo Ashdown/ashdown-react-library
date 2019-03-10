@@ -1,7 +1,7 @@
 {
-  "name": "redux-sample",
+  "name": "ashdown-react-library",
   "version": "1.0.0",
-  "description": "Simple Redux Node app",
+  "description": "Simple React Library",
   "scripts": {
     "start": "node app.js",
     "test": "jest",
@@ -11,7 +11,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/Ashdown/redux-sample"
+    "url": "https://github.com/Ashdown/ashdown-react-library"
   },
   "keywords": [
     "react",

@@ -1,7 +1,7 @@
 Asdown React Library
 ====================
 
-Sample libary with sharable components for react apps
+Sample library with sharable components for react apps
 
     
 Run it locally

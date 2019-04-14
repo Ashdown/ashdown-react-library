@@ -26,7 +26,12 @@ Build Static Files
 Deploy new app to heroku
     `heroku create`
     `git push heroku master`
-    `heroku open`
+    `heroku open`    
+
+Publish
+-------
+
+`npm publish`
 
 Links
 -----

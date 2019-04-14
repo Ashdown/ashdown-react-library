@@ -2,12 +2,14 @@
   "name": "ashdown-react-library",
   "version": "1.0.0",
   "description": "Simple React Library",
+  "main": "dist/index.js",
   "scripts": {
     "start": "node app.js",
     "test": "jest",
     "test:watch": "npm test -- --watch",
     "test:feature": "./node_modules/.bin/mocha test/feature --reporter spec",
-    "build": "./node_modules/.bin/webpack -p"
+    "build": "./node_modules/.bin/webpack -p",
+    "build:production": "./node_modules/.bin/webpack --mode production"
   },
   "repository": {
     "type": "git",
